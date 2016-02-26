@@ -1,0 +1,22 @@
+{
+  "main": "index.html",
+  "name": "nwapp",
+  "private" : true,
+  "description": "demo app of node-webkit",
+  "version": "0.1.0",
+  "keywords": [ "demo", "node-webkit" ],
+  "window": {
+    "title": "node-webkit",
+    "toolbar": false,
+    "width": 400,
+    "height": 300,
+    "position": "mouse",
+    "min_width": 50,
+    "min_height": 50,
+    "max_width": 800,
+    "max_height": 800
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
