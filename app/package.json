@@ -8,13 +8,13 @@
   "window": {
     "title": "node-webkit",
     "toolbar": false,
-    "width": 400,
-    "height": 300,
-    "position": "mouse",
-    "min_width": 50,
-    "min_height": 50,
-    "max_width": 800,
-    "max_height": 800
+    "width": 500,
+    "height": 500,
+    "position": "center",
+    "min_width": 500,
+    "min_height": 500,
+    "max_width": 500,
+    "max_height": 500
   },
   "webkit": {
     "plugin": true
